@@ -35,6 +35,8 @@ module.exports = function () {
             return ${toFunction(compiled.render, functionalRender)};
           })()`, bubleOptions)
           const renderAst = babylon.parse(renderFn)
+          
+          // This is wrong, I dont know how to do it correctly
           node.value = renderAst
         }
       }
