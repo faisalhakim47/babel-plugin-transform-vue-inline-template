@@ -1,8 +1,12 @@
 {
   "name": "babel-plugin-transform-vue-inline-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Compile vue inline template to render function",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:faisalhakim47/babel-plugin-transform-vue-inline-template.git"
+  },
   "keywords": [
     "babel-plugin"
   ],
@@ -13,6 +17,6 @@
     "babylon": "^6.18.0",
     "vue-template-compiler": "^2.5.13"
   },
-  "author": "",
+  "author": "faisalhakim47 <faisalhakim47@gmail.com>",
   "license": "ISC"
 }
