@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-vue-inline-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compile vue inline template to render function",
   "main": "src/index.js",
   "repository": {
