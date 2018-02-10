@@ -11,12 +11,9 @@ set .babelrc
 
 ```json
 {
-  ...
   "plugins": [
-    ...
     ["transform-vue-inline-template"]
   ]
-  ...
 }
 ```
 done
