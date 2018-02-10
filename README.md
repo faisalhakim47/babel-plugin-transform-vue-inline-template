@@ -16,4 +16,7 @@ set .babelrc
   ]
 }
 ```
-done
+
+## TODO
+
+- make it work along side webpack
