@@ -19,4 +19,4 @@ set .babelrc
 
 ## TODO
 
-- make it work along side webpack
+- Source Map
