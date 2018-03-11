@@ -16,15 +16,15 @@
   "dependencies": {
     "babylon": "^6.18.0",
     "lodash.clonedeep": "^4.5.0",
-    "vue-template-compiler": "^2.5.13",
+    "vue-template-compiler": "^2.5.15",
     "vue-template-es2015-compiler": "^1.6.0"
   },
   "author": "faisalhakim47 <faisalhakim47@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
+    "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.6.1",
-    "webpack": "^3.11.0"
+    "webpack": "^4.1.1"
   }
 }
